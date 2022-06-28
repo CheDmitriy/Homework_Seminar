@@ -1,5 +1,5 @@
-﻿/*
-int num1, num2;
+﻿/* 
+int num1, num2; // Задача №2
 
 Console.Write("Input a first number: ");
 num1 = Convert.ToInt32(Console.ReadLine());
@@ -20,7 +20,7 @@ if(num2 <= min)  min = num2;
 */
 
 /*
-int num1, num2, num3;
+int num1, num2, num3; // Задача №4
 
 Console.Write("Input a first number: ");
 num1 = Convert.ToInt32(Console.ReadLine());
@@ -39,7 +39,7 @@ if(num3 > max) max = num3;
 }
 */
 /*
-int n;
+int n; // Задача №6
 
 Console.WriteLine("Input a number: ");
 n = Convert.ToInt32(Console.ReadLine());
@@ -54,7 +54,7 @@ else
 }
 */
 
-int n, current;
+int n, current; //Задача №8
 
 Console.Write("Input a number: ");
 n = Convert.ToInt32(Console.ReadLine());
